@@ -1,0 +1,7 @@
+requests==2.31.0
+opencv-python
+numpy
+Pillow
+streamlit
+streamlit-image-coordinates
+streamlit-dimensions
